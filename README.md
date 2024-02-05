@@ -1,2 +1,2 @@
-# personal_portfolio - https://sparshhhhhh.github.io/personal_portfolio/
-Personal portfolio website
+# personal_portfolio 
+Personal portfolio website - https://sparshhhhhh.github.io/personal_portfolio/
